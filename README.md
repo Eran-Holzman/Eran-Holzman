@@ -3,7 +3,7 @@
 ## 💻  Data-Driven Problem Solver 
 
 
-I'm a data-driven person passionate about unlocking the power of information. Using SQL, Python, and Tableau, I delve into data, uncovering insights and crafting compelling visualizations to inform impactful solutions. I'm driven by the challenge of problem-solving and enjoy transforming raw data into actionable strategies.
+I'm passionate about unlocking the power of information and transforming data into actionable insights. Continuous learner, I love learning new technologies, and deepening my knowledge of technologies I already know. Using my skills in SQL, Python, and Tableau, I enjoy delving into complex problems and creating impactful solutions. 🚀
 
 My Toolbox 🧰 :
 <br><br>

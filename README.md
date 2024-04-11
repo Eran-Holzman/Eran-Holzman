@@ -2,7 +2,9 @@
 
 ## 💻  Data-Driven Problem Solver 
 
-I leverage my skills in SQL, Python, and Tableau to analyze and visualize data, transforming it into actionable insights.  My background in Computer Science and Economics fuels my passion for data-driven decision making and problem-solving. 
+
+I'm a data-driven person passionate about unlocking the power of information. Using SQL, Python, and Tableau, I delve into data, uncovering insights and crafting compelling visualizations to inform impactful solutions. I'm driven by the challenge of problem-solving and enjoy transforming raw data into actionable strategies.
+
 
 **My background in Computer Science and Economics fuels my enthusiasm for:**
 

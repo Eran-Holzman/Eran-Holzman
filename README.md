@@ -7,10 +7,10 @@ I'm a data-driven person passionate about unlocking the power of information. Us
 
 My Toolbox 🧰 :
 <br>
-SQL
-Python 🐍
-Data Analysis 📈
-Data Visualization 📊
+SQL<br>
+Python 🐍<br>
+Data Analysis 📈<br>
+Data Visualization 📊<br>
 Tableau
  
 #### Connect with me 📫

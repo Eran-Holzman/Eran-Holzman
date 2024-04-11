@@ -6,7 +6,7 @@
 I'm a data-driven person passionate about unlocking the power of information. Using SQL, Python, and Tableau, I delve into data, uncovering insights and crafting compelling visualizations to inform impactful solutions. I'm driven by the challenge of problem-solving and enjoy transforming raw data into actionable strategies.
 
 My Toolbox 🧰 :
-
+<br>
 SQL
 Python 🐍
 Data Analysis 📈

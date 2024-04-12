@@ -5,7 +5,7 @@
 
 I'm passionate about unlocking the power of information and transforming data into actionable insights. Continuous learner, I love learning new technologies, and deepening my knowledge of technologies I already know. Using my skills in SQL, Python, and Tableau, I enjoy delving into complex problems and creating impactful solutions. 🚀
 
-My Toolbox 🧰 :
+My Toolbox :
 <br><br>
 SQL💻<br>
 Python 🐍<br>
